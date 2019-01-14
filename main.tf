@@ -1,5 +1,5 @@
 resource "random_pet" "name" {
- length    = "11"
+ length    = "22"
  separator = "-"
 }
 
